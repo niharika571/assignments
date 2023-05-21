@@ -1,5 +1,6 @@
-//Reverse the following string “This method returns the reversed object on which it was
-//        called” using StringBuffer Class
+// Write an application to append the following strings “StringBuffer”, “is a peer class of 
+// String”, “that provides much of “, “the functionality of strings” using a StringBuffer.
+
 
 
 public class StringBufferQ1 {
